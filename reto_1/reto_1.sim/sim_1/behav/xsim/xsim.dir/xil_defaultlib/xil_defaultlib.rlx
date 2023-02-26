@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/Fabin Chacn/reto_1/reto_1.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/Fabin Chacn/reto_1/reto_1.srcs/sim_1/new/tb_mux_four_one.sv,1669825706,systemVerilog,,,,tb_mux_four_one,,uvm,,,,,,
+C:/Users/Fabin Chacn/reto_1/reto_1.srcs/sim_1/new/tb_top_module.sv,1669828199,systemVerilog,,,,tb_top_module,,uvm,,,,,,
+C:/Users/Fabin Chacn/reto_1/reto_1.srcs/sources_1/new/ff1.sv,1669824041,systemVerilog,,C:/Users/Fabin Chacn/reto_1/reto_1.srcs/sources_1/new/ff2.sv,,ff1,,uvm,,,,,,
+C:/Users/Fabin Chacn/reto_1/reto_1.srcs/sources_1/new/ff2.sv,1669824043,systemVerilog,,C:/Users/Fabin Chacn/reto_1/reto_1.srcs/sources_1/new/ff3.sv,,ff2,,uvm,,,,,,
+C:/Users/Fabin Chacn/reto_1/reto_1.srcs/sources_1/new/ff3.sv,1669824044,systemVerilog,,C:/Users/Fabin Chacn/reto_1/reto_1.srcs/sources_1/new/ff4.sv,,ff3,,uvm,,,,,,
+C:/Users/Fabin Chacn/reto_1/reto_1.srcs/sources_1/new/ff4.sv,1669824776,systemVerilog,,C:/Users/Fabin Chacn/reto_1/reto_1.srcs/sources_1/new/mux_four_one.sv,,ff4,,uvm,,,,,,
+C:/Users/Fabin Chacn/reto_1/reto_1.srcs/sources_1/new/mux_four_one.sv,1669827793,systemVerilog,,C:/Users/Fabin Chacn/reto_1/reto_1.srcs/sources_1/new/top_module.sv,,mux_four_one,,uvm,,,,,,
+C:/Users/Fabin Chacn/reto_1/reto_1.srcs/sources_1/new/top_module.sv,1669828030,systemVerilog,,C:/Users/Fabin Chacn/reto_1/reto_1.srcs/sim_1/new/tb_top_module.sv,,top_module,,uvm,,,,,,

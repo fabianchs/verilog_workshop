@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../reto_1.srcs/sources_1/new/ff1.sv" \
+"../../../../reto_1.srcs/sources_1/new/ff2.sv" \
+"../../../../reto_1.srcs/sources_1/new/ff3.sv" \
+"../../../../reto_1.srcs/sources_1/new/ff4.sv" \
+"../../../../reto_1.srcs/sources_1/new/mux_four_one.sv" \
+"../../../../reto_1.srcs/sources_1/new/top_module.sv" \
+"../../../../reto_1.srcs/sim_1/new/tb_top_module.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
